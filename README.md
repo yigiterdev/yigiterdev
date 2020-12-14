@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+- 🔭 I’m currently working on frontend technologies.
+- 🌱 I’m currently learning Vue.js.
+- 📫 How to reach me: [Mail](yigiterahmetbugra@gmail.com)
 <!--
 **yigiterdev/yigiterdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
