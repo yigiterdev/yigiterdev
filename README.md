@@ -6,4 +6,4 @@
 - 🤔 I'm curious about Svelte,Go,TypeScript.
 - 📫 How to reach me: [Gmail](mailto:yigiterahmetbugra@gmail.com) [Twitter](https://www.twitter.com/yigiterdev) [Linkedin](https://www.linkedin.com/in/yigiterbugra/)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yigiterdev&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yigiterdev&show_icons=true&theme=radical&count_private=true)
